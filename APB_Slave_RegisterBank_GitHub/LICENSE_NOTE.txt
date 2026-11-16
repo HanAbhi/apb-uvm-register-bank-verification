@@ -1,1 +1,0 @@
-No open-source licence has been selected for this student project. Until the team chooses and adds a licence, GitHub users should treat the repository as source-available for viewing but not automatically licensed for reuse. Ensure that any course-provided RTL or template material is permitted to be published before making the repository public.
