@@ -1,0 +1,16 @@
+# Simulator outputs
+*.vcd
+*.wlf
+transcript
+vsim.wlf
+work/
+questa/
+simv*
+csrc/
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
